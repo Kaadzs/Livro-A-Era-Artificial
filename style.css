@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma, sans-serif;
+}
+
+body{
+    background-color: #f5f5f5;
+}
+
+#livro{
+    width: 220px;
+}
+
+.section{
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 0px;
+    padding: 50px;
+    border: 1px solid #d5d5d5;
+}
+
+.title {
+    margin: 15px;
+}
+
+.text{
+    font-size: 16px;
+    line-height: 28px;
+    width: 930px;
+    margin: 15px auto 30px auto;
+}
+
+#autor{
+    width: 250px;
+}
+
+span{
+    font-weight: bold;
+}
+
+.link{
+    text-decoration: none;
+    color: #f5f5f5;
+    background-color: #49B970;
+    font-weight: bold;
+    padding: 10px 30px;
+    border-radius: 25px;
+}
+
+
+
+
+
+
